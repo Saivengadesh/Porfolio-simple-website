@@ -1,5 +1,5 @@
 # Porfolio-simple-website
-A modern and responsive personal resume webpage built using HTML and CSS. Showcases education, technical skills, projects, volunteer experience, and areas of interest with a clean and attractive UI design.
+
 # 💼 Saivengadesh B – Resume Website
 
 This repository contains a responsive personal resume built with HTML and CSS. It includes detailed sections such as education, technical skills, projects, volunteer experience, and more – presented with a modern and professional design.
